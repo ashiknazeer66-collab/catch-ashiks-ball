@@ -43,3 +43,47 @@ This project demonstrates the combination of **computer vision**, **gesture reco
 6. Moving the hand changes the selected tube.
 7. Releasing the pinch drops the ball into the selected tube if the move is valid.
 8. The game follows Ball Sort Puzzle rules and updates the screen in real time.
+
+
+
+
+## Skills Learned
+
+During this project, I learned:
+
+- Python Programming
+- Pygame Game Development
+- OpenCV Basics
+- MediaPipe Hand Tracking
+- Computer Vision Fundamentals
+- Gesture Recognition
+- Event Handling in Pygame
+
+
+## Future Improvements
+
+In the future, I would like to add:
+
+- Multiple difficulty levels
+- Score and move counter
+- Timer
+- Sound effects
+- Better game graphics
+- AI hint system
+- Random puzzle generator
+- Win animation
+- Mobile version
+
+- ## Project Information
+
+**Project Name:** Catch Ashiks Balls
+
+**Developer:** Ashik
+
+**Language:** Python
+
+**Libraries:** Pygame, OpenCV, MediaPipe
+
+**Project Type:** Computer Vision + Game Development
+- Problem Solving and Debugging
+- Git and GitHub
