@@ -29,3 +29,17 @@ This project demonstrates the combination of **computer vision**, **gesture reco
 ## Gameplay
 
 ![Gameplay](assets/gameplay.gif)
+
+
+
+
+## Project Workflow
+
+1. The webcam captures the user's hand.
+2. MediaPipe detects the hand landmarks.
+3. The index finger controls the cursor.
+4. A pinch gesture is detected when the thumb and index finger come close together.
+5. The player picks the top ball from the selected tube.
+6. Moving the hand changes the selected tube.
+7. Releasing the pinch drops the ball into the selected tube if the move is valid.
+8. The game follows Ball Sort Puzzle rules and updates the screen in real time.
